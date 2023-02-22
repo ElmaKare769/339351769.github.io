@@ -1,2 +1,2 @@
 # Career-Website
-Website for a career assignment for TEJ4M
+Website mode for a career assignment in TEJ4M
